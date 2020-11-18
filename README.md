@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajneesh Kumar Sharma</h1>
-<h3 align="center">Fullstack Developer (MEAN / MERN Stack)</h3>
+<h3 align="center">Fullstack Developer (MEAN / MERN Stack) 🚀 from India. Beside's programming, I enjoy eating food and traveling.</h3> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshksharma" alt="rajneeshksharma" /> </p>
 
