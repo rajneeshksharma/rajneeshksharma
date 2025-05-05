@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **React Native** and **GraphQL(A query language for your API)**
 
-- 📫 How to reach me **k.rajneesh.shamra@gmail.com**
+- 📫 How to reach me **k.rajneesh.sharma@gmail.com**
 
 - Website : (**https://rajneeshksharma.github.io**)
